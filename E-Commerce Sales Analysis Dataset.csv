@@ -1,0 +1,501 @@
+id,customer_name,product,category,quantity,price,total_amount,order_date,region,payment_method
+1,Nicole Garza,Smartwatch,Wearables,2,517.99,1035.98,2023-07-18,North,Cash on Delivery
+2,Kim Blackwell,Laptop,Electronics,3,1795.59,5386.77,2023-09-27,East,PayPal
+3,Roy Long,Smartphone,Electronics,2,1676.25,3352.5,2024-09-08,North,Bank Transfer
+4,Brittany Wilson,Laptop,Electronics,1,1209.94,1209.94,2024-07-03,South,Bank Transfer
+5,Linda Hill,Tablet,Electronics,2,110.28,220.56,2025-02-03,West,Debit Card
+6,Lee Walker,Monitor,Electronics,5,1573.38,7866.9,2024-02-17,East,Credit Card
+7,Chad Phillips,Smartphone,Electronics,2,1743.83,3487.66,2025-01-03,North,Cash on Delivery
+8,Joseph Hinton,Smartwatch,Wearables,5,1825.92,9129.6,2024-01-05,East,PayPal
+9,Eric White,Smartwatch,Wearables,4,305.48,1221.92,2024-07-07,South,PayPal
+10,Bryan Duncan,Laptop,Electronics,2,701.44,1402.88,2023-03-25,West,Debit Card
+11,Michael King,Tablet,Electronics,2,86.77,173.54,2023-07-12,West,Cash on Delivery
+12,Christine Smith,Laptop,Electronics,3,220.77,662.31,2024-02-21,North,Bank Transfer
+13,Brian Bridges,Keyboard,Accessories,2,150.03,300.06,2024-02-25,East,Bank Transfer
+14,Christopher Perkins,Tablet,Electronics,4,306.24,1224.96,2023-05-10,North,Debit Card
+15,Abigail Johnson,Tablet,Electronics,5,743.28,3716.4,2024-09-11,East,Debit Card
+16,Rachel Mcpherson,Tablet,Electronics,2,839.96,1679.92,2024-02-16,West,Debit Card
+17,Kayla Burns,Mouse,Accessories,1,1014.66,1014.66,2025-02-12,South,Bank Transfer
+18,Brian Munoz,Laptop,Electronics,2,612.9,1225.8,2024-03-11,West,Debit Card
+19,Lisa Jackson,Smartphone,Electronics,1,1210.82,1210.82,2024-06-13,West,PayPal
+20,David Horton,Smartwatch,Wearables,2,1241.57,2483.14,2023-04-24,South,Debit Card
+21,Samantha Lawrence,Headphones,Accessories,5,1097.96,5489.8,2023-08-08,East,PayPal
+22,Latasha Green,Laptop,Electronics,3,1170.25,3510.75,2023-09-20,North,Credit Card
+23,Casey Foster,Headphones,Accessories,5,1544.21,7721.05,2024-02-15,East,Debit Card
+24,Nancy Peterson,Smartwatch,Wearables,5,1827.46,9137.3,2023-04-20,South,Debit Card
+25,Brian Thomas,Smartwatch,Wearables,5,183.6,918,2023-10-30,West,Credit Card
+26,Casey Horn,Keyboard,Accessories,5,1999.67,9998.35,2024-11-14,West,Credit Card
+27,Pamela Ferguson,Laptop,Electronics,4,554.73,2218.92,2024-03-15,West,Credit Card
+28,Justin Bell,Laptop,Electronics,5,732.57,3662.85,2024-04-25,North,Debit Card
+29,Vickie Peters,Keyboard,Accessories,4,629.12,2516.48,2024-12-12,North,Bank Transfer
+30,Angela Boyd,Smartphone,Electronics,3,190.05,570.15,2024-11-09,South,Credit Card
+31,Samuel Jones,Monitor,Electronics,2,920.94,1841.88,2025-02-14,South,Cash on Delivery
+32,James Cain,Monitor,Electronics,1,443.55,443.55,2023-04-09,East,Debit Card
+33,Peter Blair,Headphones,Accessories,1,949.66,949.66,2024-08-01,West,PayPal
+34,Kimberly Barker,Smartwatch,Wearables,5,561.81,2809.05,2024-07-02,South,Cash on Delivery
+35,Daniel Malone,Smartwatch,Wearables,5,1460.81,7304.05,2023-08-05,West,PayPal
+36,Kaylee Hart,Headphones,Accessories,2,329.85,659.7,2023-03-23,North,Bank Transfer
+37,William Jones,Keyboard,Accessories,4,1230.61,4922.44,2024-02-12,West,Cash on Delivery
+38,David White DDS,Monitor,Electronics,5,663.87,3319.35,2023-06-19,West,Debit Card
+39,Catherine Mendoza,Monitor,Electronics,3,1871.64,5614.92,2023-12-02,North,Credit Card
+40,Scott Noble,Headphones,Accessories,5,1750.19,8750.95,2023-08-22,North,Cash on Delivery
+41,Jennifer Mcguire,Laptop,Electronics,2,1046.34,2092.68,2024-03-03,West,Cash on Delivery
+42,Melissa Farley,Headphones,Accessories,4,1134.51,4538.04,2024-03-07,East,Debit Card
+43,Matthew Taylor,Laptop,Electronics,3,1524.71,4574.13,2024-02-18,East,Credit Card
+44,Craig Gray,Keyboard,Accessories,5,232.4,1162,2024-12-31,East,Credit Card
+45,Jeffery Rosario,Laptop,Electronics,2,1621.08,3242.16,2023-06-08,West,Credit Card
+46,Michael Anderson,Monitor,Electronics,4,570.56,2282.24,2024-02-01,South,Bank Transfer
+47,Ryan Wiley,Mouse,Accessories,3,647.19,1941.57,2023-10-01,East,Credit Card
+48,Thomas Galvan,Smartphone,Electronics,2,158.02,316.04,2025-01-03,East,Credit Card
+49,Gina Jacobson,Laptop,Electronics,3,1372.96,4118.88,2024-10-15,North,Bank Transfer
+50,Pamela Fitzpatrick,Mouse,Accessories,4,719.21,2876.84,2023-07-18,South,Credit Card
+51,Alexis Serrano,Headphones,Accessories,4,179.56,718.24,2025-01-05,West,PayPal
+52,Luis Cooper,Monitor,Electronics,4,1693.94,6775.76,2023-09-06,South,Debit Card
+53,Mr. Thomas Sawyer,Keyboard,Accessories,4,953.7,3814.8,2023-04-02,East,Credit Card
+54,Heather Ferguson,Monitor,Electronics,2,1145.77,2291.54,2024-03-06,South,Credit Card
+55,Joseph Robbins,Tablet,Electronics,2,308.6,617.2,2024-12-26,East,PayPal
+56,Megan Snyder,Laptop,Electronics,4,57.97,231.88,2023-05-17,East,Debit Card
+57,Anthony Butler,Headphones,Accessories,3,1810.71,5432.13,2024-03-28,East,Credit Card
+58,Katelyn Harris,Smartwatch,Wearables,1,880.6,880.6,2023-07-13,South,Debit Card
+59,Jamie Smith,Tablet,Electronics,4,1889.25,7557,2024-05-16,North,PayPal
+60,Christina Rodriguez,Smartwatch,Wearables,3,146.4,439.2,2024-09-19,West,PayPal
+61,Christopher Allen,Smartphone,Electronics,5,648.54,3242.7,2023-05-15,West,Cash on Delivery
+62,Samuel Torres,Smartphone,Electronics,4,875.07,3500.28,2023-04-27,South,Credit Card
+63,Emily Mcdaniel,Monitor,Electronics,1,1751.37,1751.37,2024-11-24,North,PayPal
+64,Geoffrey Guerra,Laptop,Electronics,3,1771.43,5314.29,2023-03-12,East,Credit Card
+65,Jonathan Greene,Smartwatch,Wearables,1,828.06,828.06,2024-09-16,North,Debit Card
+66,Eric Fernandez,Headphones,Accessories,5,461.28,2306.4,2023-09-11,North,Bank Transfer
+67,Edward Conner,Tablet,Electronics,5,774.15,3870.75,2023-05-21,South,Credit Card
+68,Jason Lopez,Headphones,Accessories,3,1600.85,4802.55,2024-11-06,West,Cash on Delivery
+69,Brandon Hamilton,Headphones,Accessories,4,714.74,2858.96,2025-02-17,East,Bank Transfer
+70,Rachel Gordon,Smartwatch,Wearables,4,300.79,1203.16,2024-11-08,South,Cash on Delivery
+71,Laurie Smith,Headphones,Accessories,5,691.82,3459.1,2024-01-11,West,PayPal
+72,Melissa Blake,Smartwatch,Wearables,3,478.29,1434.87,2024-05-12,South,Credit Card
+73,James Cochran,Laptop,Electronics,2,1345.68,2691.36,2024-11-07,South,Bank Transfer
+74,Diane Turner,Tablet,Electronics,1,1293.3,1293.3,2024-03-06,East,Credit Card
+75,Jennifer Mcintosh,Mouse,Accessories,2,1067.91,2135.82,2023-07-17,West,Credit Card
+76,Scott White,Smartwatch,Wearables,1,1064.28,1064.28,2023-10-25,North,Cash on Delivery
+77,Thomas Johnston,Tablet,Electronics,5,925.24,4626.2,2023-03-15,West,Bank Transfer
+78,Dr. Rebekah Conner,Monitor,Electronics,5,580.38,2901.9,2023-08-21,North,Bank Transfer
+79,Tracey Mccarthy,Smartwatch,Wearables,5,1681.66,8408.3,2023-07-04,East,Bank Transfer
+80,Savannah Walker,Smartphone,Electronics,4,666.63,2666.52,2024-09-08,East,Debit Card
+81,Nancy Preston MD,Headphones,Accessories,3,682.05,2046.15,2023-06-25,South,Credit Card
+82,Michelle Smith,Laptop,Electronics,2,107.09,214.18,2023-05-12,North,Debit Card
+83,Karen Jenkins,Laptop,Electronics,4,1146.1,4584.4,2024-06-23,East,Bank Transfer
+84,Michael Rowland,Monitor,Electronics,5,369.92,1849.6,2024-11-14,East,Credit Card
+85,David Bennett,Smartphone,Electronics,1,966.58,966.58,2023-06-14,South,Cash on Delivery
+86,Sean Carroll,Laptop,Electronics,4,224.61,898.44,2024-09-21,South,Credit Card
+87,Cory Moreno,Headphones,Accessories,1,1291.93,1291.93,2023-07-04,West,PayPal
+88,Dylan Horne,Tablet,Electronics,4,551.45,2205.8,2024-09-16,North,PayPal
+89,Erik White,Headphones,Accessories,3,364.93,1094.79,2023-11-19,North,Cash on Delivery
+90,Jonathan Watkins,Smartphone,Electronics,1,1687.05,1687.05,2024-05-23,North,Cash on Delivery
+91,David Ferguson,Keyboard,Accessories,1,1746.19,1746.19,2023-05-06,East,Cash on Delivery
+92,Kimberly Curtis,Smartphone,Electronics,2,1447.72,2895.44,2024-01-18,West,Cash on Delivery
+93,James Mercer,Tablet,Electronics,4,318.98,1275.92,2023-12-29,North,Cash on Delivery
+94,Sandra Lane,Mouse,Accessories,4,928.7,3714.8,2024-09-09,North,PayPal
+95,Jonathan Hubbard,Keyboard,Accessories,3,339.3,1017.9,2024-05-14,West,Debit Card
+96,Gina Benjamin,Headphones,Accessories,1,1273.68,1273.68,2023-08-05,South,PayPal
+97,John Sawyer,Smartphone,Electronics,1,973.72,973.72,2023-12-31,South,Credit Card
+98,Betty Graves,Headphones,Accessories,1,1531.27,1531.27,2024-11-01,North,Bank Transfer
+99,Melinda Hamilton,Laptop,Electronics,2,780.58,1561.16,2023-05-17,West,Bank Transfer
+100,Kurt Cooper,Monitor,Electronics,5,684.49,3422.45,2024-05-14,East,PayPal
+101,Vanessa Martin,Smartphone,Electronics,3,435.6,1306.8,2024-05-02,East,Bank Transfer
+102,Tommy Davis,Mouse,Accessories,5,1883.83,9419.15,2024-12-25,North,Cash on Delivery
+103,Robert Haas,Mouse,Accessories,3,602.07,1806.21,2024-04-25,North,Cash on Delivery
+104,Diana Bennett,Keyboard,Accessories,4,221.23,884.92,2023-10-29,North,PayPal
+105,Brittany Hart,Monitor,Electronics,1,852.54,852.54,2024-10-27,South,PayPal
+106,Chris Floyd,Tablet,Electronics,3,1875.25,5625.75,2024-09-21,East,Debit Card
+107,Cindy Williams,Smartwatch,Wearables,3,333.82,1001.46,2024-09-21,East,Bank Transfer
+108,Cathy Horn,Keyboard,Accessories,1,1900.38,1900.38,2023-11-12,South,Credit Card
+109,Patrick Summers,Tablet,Electronics,2,1914.4,3828.8,2024-07-12,North,Bank Transfer
+110,Stephen Burns,Smartphone,Electronics,3,111.39,334.17,2024-09-14,South,Cash on Delivery
+111,Madison Martin,Smartwatch,Wearables,5,1973.59,9867.95,2025-02-06,North,Bank Transfer
+112,James Foster,Tablet,Electronics,2,745.16,1490.32,2024-03-07,West,Credit Card
+113,Melissa Cox,Monitor,Electronics,1,1849.56,1849.56,2024-01-06,East,Debit Card
+114,Randy Spencer,Smartwatch,Wearables,4,968.54,3874.16,2024-08-25,North,Bank Transfer
+115,Michael Garcia,Laptop,Electronics,3,492.01,1476.03,2023-04-30,East,Credit Card
+116,Shawn Taylor,Laptop,Electronics,1,1783.23,1783.23,2025-03-01,West,Credit Card
+117,Jacob Ware,Tablet,Electronics,5,1395.59,6977.95,2023-11-30,North,Cash on Delivery
+118,April Nelson,Monitor,Electronics,3,514.74,1544.22,2024-04-28,West,Debit Card
+119,Stephanie Smith,Laptop,Electronics,5,394.91,1974.55,2023-05-06,South,Debit Card
+120,Sharon Nixon,Headphones,Accessories,4,1933.34,7733.36,2025-01-28,East,Cash on Delivery
+121,Jeremy Lopez,Keyboard,Accessories,5,1575.79,7878.95,2024-02-20,East,Cash on Delivery
+122,Shawna Vasquez,Laptop,Electronics,2,191.92,383.84,2024-09-25,North,Credit Card
+123,James House,Smartwatch,Wearables,1,316.29,316.29,2024-10-13,South,PayPal
+124,Tracey Miller,Tablet,Electronics,3,552.78,1658.34,2024-07-14,North,Debit Card
+125,Lisa Mendez,Laptop,Electronics,1,1168.04,1168.04,2023-12-25,East,Cash on Delivery
+126,Kelli Norton,Smartwatch,Wearables,1,153.64,153.64,2024-02-03,South,PayPal
+127,Paul Coleman,Mouse,Accessories,1,1107.68,1107.68,2024-04-13,South,Bank Transfer
+128,Diane Lopez,Tablet,Electronics,5,1215.47,6077.35,2024-05-28,South,Bank Transfer
+129,Mark Kennedy,Mouse,Accessories,4,1251.89,5007.56,2023-08-03,North,Credit Card
+130,Timothy Baker,Smartwatch,Wearables,2,546.14,1092.28,2023-09-03,North,PayPal
+131,Vanessa Pierce,Keyboard,Accessories,1,183.05,183.05,2023-05-24,South,Debit Card
+132,Jacqueline Sanchez,Mouse,Accessories,1,774.76,774.76,2023-11-22,East,Credit Card
+133,Nathan Aguilar,Mouse,Accessories,5,1403.46,7017.3,2024-06-16,West,Cash on Delivery
+134,Tyler Hartman,Laptop,Electronics,5,740.89,3704.45,2023-07-14,West,Cash on Delivery
+135,Randy Rogers,Laptop,Electronics,4,1834.98,7339.92,2025-02-03,West,Cash on Delivery
+136,Sandra Martin,Smartwatch,Wearables,4,1521.83,6087.32,2023-06-16,West,Credit Card
+137,Cynthia Boyd,Keyboard,Accessories,1,236.63,236.63,2024-09-06,South,Debit Card
+138,Sarah Cooper,Smartphone,Electronics,1,523.92,523.92,2024-03-17,East,Debit Card
+139,Molly Patton,Mouse,Accessories,1,299.13,299.13,2025-01-23,East,PayPal
+140,Amy Collins,Headphones,Accessories,4,1212.28,4849.12,2023-08-12,North,Credit Card
+141,Amber Conway,Smartphone,Electronics,4,279.75,1119,2024-11-14,East,PayPal
+142,Dwayne Brown,Smartphone,Electronics,4,137.86,551.44,2023-11-17,South,Bank Transfer
+143,Donald Turner,Smartphone,Electronics,3,1826.43,5479.29,2023-09-08,North,Debit Card
+144,Hannah Bradley,Monitor,Electronics,1,76.39,76.39,2023-08-16,East,Credit Card
+145,Sean Cole,Mouse,Accessories,2,893.77,1787.54,2023-10-20,North,Credit Card
+146,Scott Avery,Keyboard,Accessories,4,292.94,1171.76,2025-02-03,South,Credit Card
+147,Samuel Bridges,Laptop,Electronics,1,436.05,436.05,2024-04-21,North,PayPal
+148,Mr. Paul Foley,Monitor,Electronics,4,1614.68,6458.72,2024-10-25,East,Debit Card
+149,Brett Sanders,Headphones,Accessories,3,1234.79,3704.37,2025-01-30,West,PayPal
+150,Jack Shaw,Smartwatch,Wearables,5,1138.04,5690.2,2025-02-16,East,Debit Card
+151,Theresa Cordova,Keyboard,Accessories,2,371.66,743.32,2023-08-22,South,Credit Card
+152,Charles Allen,Keyboard,Accessories,3,1654.28,4962.84,2024-04-02,South,Debit Card
+153,Natalie Arias,Laptop,Electronics,3,403.18,1209.54,2024-01-08,East,Debit Card
+154,Dr. Jacob Edwards,Smartwatch,Wearables,4,1348.48,5393.92,2024-01-02,East,Cash on Delivery
+155,Brenda Collins,Mouse,Accessories,4,118.81,475.24,2024-12-22,North,Cash on Delivery
+156,Kathleen Obrien,Smartwatch,Wearables,2,1074.25,2148.5,2023-10-31,South,Bank Transfer
+157,Linda Woodward,Smartwatch,Wearables,4,484.65,1938.6,2023-03-24,East,Debit Card
+158,Michelle Anderson,Smartphone,Electronics,4,643.32,2573.28,2024-02-20,North,Cash on Delivery
+159,Joe Bernard,Keyboard,Accessories,5,430.39,2151.95,2023-04-16,South,Bank Transfer
+160,Deborah Kane,Monitor,Electronics,2,148.64,297.28,2024-08-30,South,Debit Card
+161,Christopher Russo,Smartphone,Electronics,5,1973.96,9869.8,2023-12-11,West,Cash on Delivery
+162,Bradley Cox,Laptop,Electronics,4,1871.91,7487.64,2023-12-13,West,Credit Card
+163,Danielle Marquez,Smartphone,Electronics,4,1317.35,5269.4,2025-02-20,North,Cash on Delivery
+164,Jessica Turner,Smartphone,Electronics,3,1071.85,3215.55,2023-10-20,East,Bank Transfer
+165,Laurie Gibbs,Mouse,Accessories,2,1745.67,3491.34,2024-10-03,West,Debit Card
+166,Keith Padilla,Headphones,Accessories,1,356.84,356.84,2023-08-23,West,PayPal
+167,Tara Jordan,Smartwatch,Wearables,4,75.1,300.4,2024-08-19,North,Bank Transfer
+168,Kara Moore,Monitor,Electronics,4,600.67,2402.68,2024-08-17,South,Cash on Delivery
+169,Alexandra Lambert,Keyboard,Accessories,1,913.85,913.85,2023-08-16,West,Debit Card
+170,Megan Kim,Smartphone,Electronics,5,1324.79,6623.95,2023-06-06,West,Bank Transfer
+171,Christy Ray,Tablet,Electronics,1,1800.33,1800.33,2024-07-03,South,PayPal
+172,Lisa Dixon,Smartwatch,Wearables,3,1318.3,3954.9,2024-12-31,West,Credit Card
+173,Veronica Brandt,Headphones,Accessories,3,1613.96,4841.88,2023-04-20,North,Debit Card
+174,Karen Nelson,Keyboard,Accessories,1,428.06,428.06,2024-04-05,North,Debit Card
+175,Laura Carroll,Laptop,Electronics,2,1836.41,3672.82,2023-05-28,South,Credit Card
+176,Kayla Kennedy,Headphones,Accessories,3,1400.33,4200.99,2023-12-12,West,PayPal
+177,Charles Wood,Smartwatch,Wearables,1,887.43,887.43,2023-12-03,North,Credit Card
+178,Christopher Benjamin,Keyboard,Accessories,1,1502.41,1502.41,2023-11-21,North,Debit Card
+179,Willie Maxwell,Smartphone,Electronics,4,244.81,979.24,2023-07-20,North,Cash on Delivery
+180,Danny Craig,Keyboard,Accessories,5,989.45,4947.25,2023-03-28,West,PayPal
+181,Cory Obrien,Laptop,Electronics,2,1763.45,3526.9,2024-03-09,East,Credit Card
+182,Julia Smith,Laptop,Electronics,4,1432.24,5728.96,2023-07-07,East,Cash on Delivery
+183,John Parrish,Tablet,Electronics,4,872.56,3490.24,2024-04-09,South,PayPal
+184,Kathleen Barton,Laptop,Electronics,4,411.71,1646.84,2024-08-16,West,Bank Transfer
+185,Timothy Phillips,Keyboard,Accessories,5,815.68,4078.4,2023-09-19,North,Cash on Delivery
+186,Michelle Stokes,Keyboard,Accessories,4,1526.73,6106.92,2024-01-05,East,Bank Transfer
+187,Kimberly Coffey,Laptop,Electronics,4,502.78,2011.12,2023-08-29,East,Bank Transfer
+188,Angel Hartman,Smartphone,Electronics,4,95.87,383.48,2023-09-23,North,Credit Card
+189,Aaron Peterson,Smartphone,Electronics,1,1130.07,1130.07,2023-04-11,North,Bank Transfer
+190,Brandon Perez,Mouse,Accessories,3,344.81,1034.43,2023-05-13,North,Credit Card
+191,Mrs. Ashley Robinson,Tablet,Electronics,5,1425.8,7129,2025-02-03,West,PayPal
+192,Donna Woods,Smartwatch,Wearables,2,1098.13,2196.26,2023-08-02,East,Debit Card
+193,Ms. Julie Palmer DDS,Smartwatch,Wearables,1,1978.93,1978.93,2024-01-07,West,Bank Transfer
+194,Tracey Vargas,Smartwatch,Wearables,1,400.22,400.22,2024-09-28,West,PayPal
+195,Kayla Sellers,Headphones,Accessories,2,1124.46,2248.92,2024-11-13,North,Credit Card
+196,Kimberly Moore,Tablet,Electronics,3,657.34,1972.02,2024-02-18,South,Debit Card
+197,Chelsea Washington,Headphones,Accessories,2,1552.34,3104.68,2023-05-14,West,Credit Card
+198,Chad Smith,Keyboard,Accessories,5,104.99,524.95,2025-02-26,East,Debit Card
+199,Alan Sanchez,Laptop,Electronics,4,693.65,2774.6,2024-09-10,East,Bank Transfer
+200,Angela Walker,Mouse,Accessories,2,974.98,1949.96,2023-05-03,South,Cash on Delivery
+201,Lisa Taylor,Keyboard,Accessories,3,982.37,2947.11,2024-01-09,East,Cash on Delivery
+202,Gabriel Klein,Smartwatch,Wearables,3,1471.38,4414.14,2023-04-29,South,Bank Transfer
+203,James Stark,Tablet,Electronics,3,662.38,1987.14,2023-07-23,West,PayPal
+204,Susan Martinez,Keyboard,Accessories,3,1069.48,3208.44,2023-12-01,South,PayPal
+205,Jessica Wilkerson,Headphones,Accessories,3,234.81,704.43,2025-01-15,East,Credit Card
+206,Brad Gutierrez,Smartwatch,Wearables,5,1850.94,9254.7,2023-05-01,South,Debit Card
+207,Jay Lewis,Tablet,Electronics,2,1040.35,2080.7,2024-10-15,West,PayPal
+208,Taylor Stewart,Tablet,Electronics,3,1643.33,4929.99,2024-11-22,South,PayPal
+209,Donald Hernandez,Smartphone,Electronics,2,1620.68,3241.36,2024-05-31,West,Bank Transfer
+210,Ronald Brown,Smartwatch,Wearables,4,1498.78,5995.12,2024-10-17,West,Debit Card
+211,Patrick Sanchez,Smartphone,Electronics,4,467.54,1870.16,2024-07-01,East,Cash on Delivery
+212,Joseph Stewart,Smartwatch,Wearables,2,450.22,900.44,2023-05-30,West,Bank Transfer
+213,Lauren Holmes,Tablet,Electronics,4,698.01,2792.04,2023-04-03,East,Cash on Delivery
+214,Sarah Tran,Keyboard,Accessories,2,277.44,554.88,2024-01-01,West,PayPal
+215,Andrew Rice,Smartwatch,Wearables,2,1225.63,2451.26,2023-06-10,South,Cash on Delivery
+216,Melissa Cooper,Mouse,Accessories,3,69.79,209.37,2023-07-11,West,Cash on Delivery
+217,Keith Price,Headphones,Accessories,4,348.52,1394.08,2024-03-29,North,Credit Card
+218,Frederick Shields,Smartwatch,Wearables,2,97.98,195.96,2023-11-05,East,Cash on Delivery
+219,Daniel Yates,Keyboard,Accessories,4,618.47,2473.88,2025-02-25,North,PayPal
+220,Caleb Hall,Tablet,Electronics,2,422.55,845.1,2023-08-17,North,Bank Transfer
+221,Destiny Cook,Smartphone,Electronics,5,682.27,3411.35,2023-05-08,East,Bank Transfer
+222,Amy Duarte PhD,Mouse,Accessories,4,1446.54,5786.16,2024-12-30,South,Credit Card
+223,Ethan Mccoy,Tablet,Electronics,2,484.04,968.08,2023-06-19,West,PayPal
+224,Dr. Carrie Hayes,Headphones,Accessories,3,1614.71,4844.13,2024-03-25,East,Bank Transfer
+225,Erik Torres,Keyboard,Accessories,2,1537.65,3075.3,2023-09-27,North,PayPal
+226,Scott Johnson,Smartphone,Electronics,2,1484.68,2969.36,2023-06-19,West,PayPal
+227,Carlos Peterson,Smartphone,Electronics,2,1979.01,3958.02,2023-12-20,West,Debit Card
+228,Carla Lynch,Smartwatch,Wearables,4,1315.14,5260.56,2025-01-06,South,PayPal
+229,Autumn Olsen,Keyboard,Accessories,3,216.62,649.86,2023-10-02,South,Credit Card
+230,Cynthia Ruiz,Smartphone,Electronics,1,431.16,431.16,2024-06-26,East,Debit Card
+231,Meghan Schaefer,Mouse,Accessories,2,1063.25,2126.5,2024-12-03,West,Cash on Delivery
+232,Pamela Pittman,Smartwatch,Wearables,4,1872.13,7488.52,2023-05-01,West,Bank Transfer
+233,Stephanie Martinez,Tablet,Electronics,3,304.28,912.84,2023-12-04,West,Debit Card
+234,Carrie Jacobs,Tablet,Electronics,2,802.95,1605.9,2025-02-22,East,Credit Card
+235,Alan Alvarado PhD,Smartphone,Electronics,3,1806.65,5419.95,2024-08-03,South,Debit Card
+236,Johnny Riley,Tablet,Electronics,2,1855.93,3711.86,2024-01-06,West,PayPal
+237,Kimberly Clay,Smartwatch,Wearables,4,1724.81,6899.24,2023-11-11,North,Credit Card
+238,Doris Myers,Mouse,Accessories,4,1359.12,5436.48,2023-09-27,West,Debit Card
+239,Andrea Rodgers,Smartphone,Electronics,3,1478.37,4435.11,2024-07-05,South,Cash on Delivery
+240,Brittany Anderson,Smartphone,Electronics,1,225.75,225.75,2023-04-27,North,Credit Card
+241,Teresa Vaughn,Smartphone,Electronics,2,1674.59,3349.18,2024-10-18,South,Debit Card
+242,Ms. Donna Potter,Mouse,Accessories,3,364.61,1093.83,2023-03-06,South,PayPal
+243,Peter Woods,Smartwatch,Wearables,3,732.77,2198.31,2024-01-17,North,Cash on Delivery
+244,Jessica Martin,Laptop,Electronics,2,95.23,190.46,2024-03-06,South,Bank Transfer
+245,Lisa Nichols,Laptop,Electronics,1,761.85,761.85,2024-12-11,West,PayPal
+246,Michele Murphy,Laptop,Electronics,2,424.03,848.06,2024-06-06,South,Credit Card
+247,Jacob Thompson,Mouse,Accessories,4,1675.05,6700.2,2023-09-22,South,Debit Card
+248,Heather Shepard,Laptop,Electronics,4,1819.34,7277.36,2025-01-09,East,Bank Transfer
+249,Melissa Lloyd,Laptop,Electronics,2,1207.37,2414.74,2024-12-21,North,PayPal
+250,John Cameron,Tablet,Electronics,5,1575.83,7879.15,2024-01-15,East,Credit Card
+251,Sean Bailey,Monitor,Electronics,2,1543.12,3086.24,2024-07-28,North,Credit Card
+252,Mr. Jose Myers,Mouse,Accessories,5,1235.66,6178.3,2025-02-27,North,Debit Card
+253,Brandon Lewis,Smartphone,Electronics,1,1016.64,1016.64,2023-08-06,East,PayPal
+254,Stephanie Williams,Mouse,Accessories,2,746.36,1492.72,2023-06-19,East,PayPal
+255,Jennifer Waters,Headphones,Accessories,4,885.53,3542.12,2025-01-18,South,Credit Card
+256,Jennifer Chapman,Mouse,Accessories,1,1481.24,1481.24,2023-06-20,South,Credit Card
+257,Michael Walker,Smartwatch,Wearables,4,1126.87,4507.48,2023-07-07,North,Bank Transfer
+258,Julia Smith,Tablet,Electronics,1,1789.44,1789.44,2024-04-25,East,Bank Transfer
+259,Teresa Day,Smartwatch,Wearables,4,1351.23,5404.92,2023-07-24,North,Cash on Delivery
+260,Jeffery Clark,Headphones,Accessories,2,1156.03,2312.06,2024-01-18,South,Bank Transfer
+261,Benjamin Mcgee,Mouse,Accessories,1,1745.69,1745.69,2024-07-07,East,Credit Card
+262,Heather Brewer,Headphones,Accessories,5,780.76,3903.8,2024-01-08,East,Debit Card
+263,Amy Carlson,Mouse,Accessories,5,1425.91,7129.55,2024-11-18,East,Debit Card
+264,Shirley Rodriguez,Mouse,Accessories,1,236.9,236.9,2023-08-30,West,Cash on Delivery
+265,Carrie Wilson,Headphones,Accessories,1,204.84,204.84,2024-10-24,East,Credit Card
+266,Danielle Ward,Mouse,Accessories,5,485.6,2428,2024-12-16,South,PayPal
+267,Brian Joseph,Laptop,Electronics,4,368.67,1474.68,2023-08-16,East,PayPal
+268,Johnny Castaneda,Smartphone,Electronics,3,1924.11,5772.33,2023-03-30,South,Credit Card
+269,Heidi French,Monitor,Electronics,3,648.48,1945.44,2024-04-11,North,Cash on Delivery
+270,Kimberly Keith,Monitor,Electronics,1,819.77,819.77,2025-01-09,West,Credit Card
+271,Elizabeth Hamilton,Mouse,Accessories,5,1864.56,9322.8,2024-03-25,West,Credit Card
+272,Brendan Gomez,Keyboard,Accessories,1,1108.17,1108.17,2024-07-22,South,Debit Card
+273,Joshua Rodriguez,Monitor,Electronics,3,1800.33,5400.99,2023-04-16,North,Bank Transfer
+274,Rebecca Ross,Smartwatch,Wearables,4,1412.98,5651.92,2023-12-19,North,Debit Card
+275,Jay Mora,Headphones,Accessories,5,1529.16,7645.8,2024-07-15,East,Bank Transfer
+276,Jason Gonzalez,Laptop,Electronics,3,575.12,1725.36,2023-09-13,South,Cash on Delivery
+277,Taylor Turner,Smartphone,Electronics,1,1666.61,1666.61,2024-07-01,South,Bank Transfer
+278,Kyle Owen,Mouse,Accessories,1,1125.87,1125.87,2024-03-02,East,Debit Card
+279,Kevin Combs,Laptop,Electronics,2,1671.09,3342.18,2024-01-10,North,Debit Card
+280,Laura Miller,Monitor,Electronics,4,1077.2,4308.8,2023-04-30,East,Debit Card
+281,Richard Smith,Smartwatch,Wearables,2,379.45,758.9,2024-10-07,North,Bank Transfer
+282,Lawrence Howe,Headphones,Accessories,5,1032.67,5163.35,2023-12-17,West,Credit Card
+283,Willie Kim,Headphones,Accessories,2,1463.08,2926.16,2023-08-29,South,PayPal
+284,Sheila Mitchell,Laptop,Electronics,1,1667.27,1667.27,2023-03-18,North,Cash on Delivery
+285,David Sutton,Tablet,Electronics,2,503.4,1006.8,2023-05-17,North,Credit Card
+286,Zachary Lee,Smartwatch,Wearables,5,1222.15,6110.75,2023-05-07,East,Credit Card
+287,Bruce Fisher,Monitor,Electronics,3,351.41,1054.23,2023-05-31,North,Credit Card
+288,Melanie Figueroa,Tablet,Electronics,1,1919.16,1919.16,2023-06-07,North,Debit Card
+289,Mrs. Jessica Perez,Monitor,Electronics,5,1156.17,5780.85,2023-07-30,West,Credit Card
+290,John Taylor,Monitor,Electronics,2,1422.19,2844.38,2025-02-10,West,PayPal
+291,Kenneth Johnson,Mouse,Accessories,3,776.87,2330.61,2025-02-26,South,Cash on Delivery
+292,Amanda Gonzalez,Mouse,Accessories,3,1084.11,3252.33,2023-10-28,South,Cash on Delivery
+293,Steven Allen,Laptop,Electronics,5,606.24,3031.2,2024-03-13,South,PayPal
+294,Erica Deleon,Mouse,Accessories,1,1269.93,1269.93,2024-08-25,East,Bank Transfer
+295,Mr. Gary Gardner,Smartwatch,Wearables,2,1974.07,3948.14,2023-06-19,North,Cash on Delivery
+296,Alexander Brown,Monitor,Electronics,3,1548.62,4645.86,2023-03-09,South,Bank Transfer
+297,David Todd,Monitor,Electronics,1,1335.65,1335.65,2025-01-30,North,Debit Card
+298,Gina Larson MD,Tablet,Electronics,1,603.19,603.19,2024-07-21,South,Credit Card
+299,Curtis Miller,Monitor,Electronics,3,1433.56,4300.68,2024-01-16,North,Bank Transfer
+300,Troy Norman,Keyboard,Accessories,1,1193.74,1193.74,2023-07-12,East,Credit Card
+301,Cindy Blevins,Tablet,Electronics,4,1975.91,7903.64,2024-07-30,South,Bank Transfer
+302,William Dunn,Monitor,Electronics,3,365.74,1097.22,2024-10-15,West,Credit Card
+303,Daniel Ramirez,Headphones,Accessories,2,1270.63,2541.26,2023-06-01,West,Cash on Delivery
+304,Jacqueline Medina,Mouse,Accessories,4,1857.22,7428.88,2023-04-29,West,PayPal
+305,Susan Medina,Keyboard,Accessories,5,1121.93,5609.65,2024-07-16,North,Bank Transfer
+306,Maxwell Gray,Headphones,Accessories,2,956.05,1912.1,2024-06-12,East,Credit Card
+307,Hailey Fisher,Mouse,Accessories,5,503.48,2517.4,2023-12-29,East,PayPal
+308,Kelly Vang,Smartwatch,Wearables,3,1260.26,3780.78,2023-06-28,East,Bank Transfer
+309,Colleen Leonard,Tablet,Electronics,1,508.75,508.75,2023-10-03,East,Bank Transfer
+310,John Martinez,Laptop,Electronics,5,333.31,1666.55,2024-11-15,South,PayPal
+311,Teresa Smith,Mouse,Accessories,1,1006.63,1006.63,2024-10-10,North,Cash on Delivery
+312,Jason Duarte,Keyboard,Accessories,5,1606,8030,2025-01-18,North,Bank Transfer
+313,Madison Christian,Keyboard,Accessories,5,1227.35,6136.75,2025-01-16,East,PayPal
+314,Taylor Jenkins,Tablet,Electronics,2,1375.18,2750.36,2023-05-04,West,Debit Card
+315,Connor Larson,Mouse,Accessories,2,1173.7,2347.4,2024-12-02,South,Bank Transfer
+316,Austin Thomas,Smartwatch,Wearables,3,1786.15,5358.45,2023-03-12,South,Credit Card
+317,Todd Bailey,Laptop,Electronics,2,845.47,1690.94,2023-07-02,West,Cash on Delivery
+318,Claire Edwards,Tablet,Electronics,5,498.53,2492.65,2023-07-13,West,Debit Card
+319,Lawrence Mora,Laptop,Electronics,4,771.85,3087.4,2023-12-15,West,Debit Card
+320,Brian Vaughn,Laptop,Electronics,2,256.59,513.18,2023-08-17,East,Cash on Delivery
+321,Ryan Woods,Smartwatch,Wearables,4,406.84,1627.36,2023-09-08,South,Bank Transfer
+322,Maria Davis,Headphones,Accessories,3,1331.5,3994.5,2023-05-26,South,Cash on Delivery
+323,Thomas Johnston,Laptop,Electronics,5,553.97,2769.85,2024-07-30,North,Debit Card
+324,Emily Vega,Smartwatch,Wearables,4,1812.12,7248.48,2024-08-13,South,Credit Card
+325,Christopher Ross,Headphones,Accessories,1,892.6,892.6,2024-10-10,East,PayPal
+326,Lori Little,Keyboard,Accessories,1,948.66,948.66,2024-04-06,East,Credit Card
+327,Maria Obrien,Laptop,Electronics,3,672.29,2016.87,2024-08-12,North,PayPal
+328,Lawrence Moore,Headphones,Accessories,3,551.25,1653.75,2023-09-17,South,Credit Card
+329,Linda Smith,Mouse,Accessories,4,813.37,3253.48,2023-04-01,North,PayPal
+330,Steven Carroll,Tablet,Electronics,1,410.15,410.15,2024-05-06,South,Cash on Delivery
+331,Matthew Shea DVM,Monitor,Electronics,5,206.38,1031.9,2023-09-08,North,PayPal
+332,Howard Gibson,Tablet,Electronics,4,548.56,2194.24,2023-07-01,South,Debit Card
+333,Barbara Swanson,Laptop,Electronics,4,1338.94,5355.76,2023-08-30,South,Cash on Delivery
+334,Heather Hayes,Smartphone,Electronics,3,1522.4,4567.2,2023-04-17,North,Cash on Delivery
+335,Andrew Kelley,Keyboard,Accessories,2,1164.06,2328.12,2024-01-22,North,Cash on Delivery
+336,Kelly Marquez,Monitor,Electronics,3,952.25,2856.75,2023-06-04,West,Cash on Delivery
+337,Sandy Galloway,Laptop,Electronics,5,1787.72,8938.6,2023-05-14,North,Debit Card
+338,Joanna Rodriguez,Mouse,Accessories,5,372.06,1860.3,2024-10-28,West,Credit Card
+339,Douglas Bennett,Smartphone,Electronics,4,712.11,2848.44,2023-07-10,South,Debit Card
+340,Rachael Smith,Laptop,Electronics,2,472.57,945.14,2023-11-02,East,PayPal
+341,Shannon Kennedy,Smartwatch,Wearables,4,1823.98,7295.92,2024-01-13,East,Bank Transfer
+342,Joshua Hunt,Laptop,Electronics,4,867.47,3469.88,2024-11-23,South,PayPal
+343,Mary Mcdaniel,Laptop,Electronics,4,409.29,1637.16,2024-05-31,West,Bank Transfer
+344,Lauren Hernandez,Monitor,Electronics,3,867.81,2603.43,2024-09-10,South,PayPal
+345,Jessica Chapman,Laptop,Electronics,5,1702.43,8512.15,2023-06-24,South,Credit Card
+346,Donald Stewart,Tablet,Electronics,3,1011.42,3034.26,2024-02-17,West,Debit Card
+347,Nicholas Smith,Mouse,Accessories,4,1426.93,5707.72,2023-09-07,West,Debit Card
+348,Elizabeth Ingram,Smartphone,Electronics,3,1633.83,4901.49,2023-04-21,West,Bank Transfer
+349,David Williams,Smartphone,Electronics,2,1891.06,3782.12,2024-04-08,West,PayPal
+350,Peter Cook Jr.,Tablet,Electronics,2,514.88,1029.76,2024-10-17,West,Cash on Delivery
+351,Rebecca Nguyen,Monitor,Electronics,3,1309.95,3929.85,2023-09-21,West,Credit Card
+352,Stacie Mason,Monitor,Electronics,4,360.49,1441.96,2025-02-21,West,Debit Card
+353,Caitlin Martin,Monitor,Electronics,3,489.16,1467.48,2024-09-11,North,Bank Transfer
+354,Jacob Ward,Headphones,Accessories,1,1345.36,1345.36,2024-05-23,North,PayPal
+355,Joann Green,Headphones,Accessories,5,1383.56,6917.8,2025-01-14,North,Bank Transfer
+356,Hector Mccarty,Keyboard,Accessories,2,1225.36,2450.72,2025-02-23,West,Cash on Delivery
+357,Chad Lester,Monitor,Electronics,1,1666.22,1666.22,2024-02-14,South,PayPal
+358,Lauren Bailey,Smartphone,Electronics,4,1355.71,5422.84,2024-03-30,South,PayPal
+359,Vincent Hammond,Smartphone,Electronics,4,723,2892,2023-05-01,East,Bank Transfer
+360,Shawn Carlson,Smartwatch,Wearables,2,412.68,825.36,2024-06-11,East,Bank Transfer
+361,Peter Chase,Smartwatch,Wearables,3,166.42,499.26,2023-09-10,West,Debit Card
+362,Michael Johnson,Mouse,Accessories,3,432.48,1297.44,2023-06-11,West,Cash on Delivery
+363,Russell Glover,Mouse,Accessories,3,458.97,1376.91,2024-06-08,South,Debit Card
+364,Rachel Mitchell,Smartwatch,Wearables,3,1517.62,4552.86,2025-01-06,East,Credit Card
+365,Chelsey Miller,Laptop,Electronics,3,729.69,2189.07,2025-01-13,North,Credit Card
+366,Joel Davis,Smartphone,Electronics,5,618.94,3094.7,2023-04-10,East,Credit Card
+367,Tiffany Allen,Keyboard,Accessories,2,1671.33,3342.66,2023-10-11,North,Bank Transfer
+368,Ricky Edwards,Smartwatch,Wearables,3,1823.02,5469.06,2024-10-16,West,PayPal
+369,Gloria Clark,Keyboard,Accessories,3,1190.22,3570.66,2024-10-16,South,Debit Card
+370,Bruce Hayden,Monitor,Electronics,5,1362.11,6810.55,2024-03-20,West,Cash on Delivery
+371,James Ross,Laptop,Electronics,2,853.53,1707.06,2023-07-24,West,Bank Transfer
+372,Trevor Johnston,Smartwatch,Wearables,3,1544.93,4634.79,2024-04-21,East,Debit Card
+373,Mark Stewart,Smartphone,Electronics,3,758.4,2275.2,2024-01-25,North,Debit Card
+374,Matthew Howard,Mouse,Accessories,1,1541.2,1541.2,2024-10-07,West,Cash on Delivery
+375,Juan King,Smartwatch,Wearables,2,408.06,816.12,2023-06-06,East,Debit Card
+376,Rhonda Hill,Smartwatch,Wearables,2,1404.87,2809.74,2024-12-19,South,PayPal
+377,Adam Alvarado,Headphones,Accessories,1,1775.24,1775.24,2023-10-06,East,PayPal
+378,Linda Bailey,Smartwatch,Wearables,4,1259.67,5038.68,2024-02-04,South,Bank Transfer
+379,Mr. Tony Williams,Smartphone,Electronics,4,1122.98,4491.92,2024-11-27,East,Bank Transfer
+380,James Gonzales,Smartwatch,Wearables,5,1933.72,9668.6,2023-08-18,South,PayPal
+381,Gregory Snyder,Tablet,Electronics,2,457.08,914.16,2025-01-22,East,Cash on Delivery
+382,Anthony Hickman,Keyboard,Accessories,3,1455.34,4366.02,2024-01-23,East,Credit Card
+383,Michelle Donovan,Monitor,Electronics,4,159.95,639.8,2024-04-25,South,Bank Transfer
+384,Jordan Andrews,Keyboard,Accessories,1,1771.05,1771.05,2023-11-12,West,Credit Card
+385,Patricia Moore,Tablet,Electronics,3,1916.64,5749.92,2023-07-27,North,PayPal
+386,Matthew Davis PhD,Mouse,Accessories,4,826.45,3305.8,2024-02-07,North,Bank Transfer
+387,Anthony Pollard,Laptop,Electronics,5,258.57,1292.85,2024-01-04,North,PayPal
+388,Troy Smith,Tablet,Electronics,3,1880.35,5641.05,2023-12-09,North,PayPal
+389,Donald Gonzales,Smartwatch,Wearables,3,417.35,1252.05,2024-04-11,West,Cash on Delivery
+390,Kevin Jacobs,Headphones,Accessories,4,848.56,3394.24,2023-05-01,South,Bank Transfer
+391,Donna Frey,Mouse,Accessories,2,802.78,1605.56,2023-08-08,North,Debit Card
+392,Kristy Velazquez,Smartwatch,Wearables,4,1001.34,4005.36,2025-02-24,North,Bank Transfer
+393,Lisa Daugherty,Mouse,Accessories,3,575.58,1726.74,2024-04-22,West,Cash on Delivery
+394,Brittany Conrad,Monitor,Electronics,2,1186.24,2372.48,2023-11-17,South,Cash on Delivery
+395,Duane Valenzuela,Monitor,Electronics,3,819.93,2459.79,2024-12-14,West,Bank Transfer
+396,Harold Hayes,Smartwatch,Wearables,2,1257.51,2515.02,2024-12-16,South,PayPal
+397,Travis Jackson,Mouse,Accessories,3,1475.3,4425.9,2023-08-28,North,Bank Transfer
+398,Carla Smith,Tablet,Electronics,5,1064.96,5324.8,2024-05-31,West,Debit Card
+399,Sherry Cooper,Smartphone,Electronics,4,1928.83,7715.32,2023-11-28,South,Bank Transfer
+400,Michael Gutierrez,Laptop,Electronics,3,1152.9,3458.7,2024-03-30,North,Debit Card
+401,Emily Robinson,Keyboard,Accessories,4,321.65,1286.6,2025-02-07,South,Cash on Delivery
+402,Linda Stewart,Keyboard,Accessories,2,829.57,1659.14,2023-05-17,East,Debit Card
+403,Allison Ayers,Monitor,Electronics,4,533.12,2132.48,2024-03-18,East,Credit Card
+404,Kimberly Parsons,Headphones,Accessories,5,432.24,2161.2,2024-12-09,South,Cash on Delivery
+405,Nancy Howard,Monitor,Electronics,4,1811.84,7247.36,2024-06-05,North,Cash on Delivery
+406,Michael Bailey,Keyboard,Accessories,1,274.9,274.9,2024-11-23,North,PayPal
+407,Todd Russo,Laptop,Electronics,3,1308.66,3925.98,2024-10-29,East,Cash on Delivery
+408,Scott Sims,Laptop,Electronics,4,779.77,3119.08,2025-02-20,North,Credit Card
+409,Joseph Thomas,Smartphone,Electronics,1,888.55,888.55,2023-08-26,South,Debit Card
+410,Adam Edwards,Laptop,Electronics,1,1914.06,1914.06,2023-08-06,West,PayPal
+411,Eileen Oneill,Smartwatch,Wearables,3,1984.63,5953.89,2025-01-29,North,PayPal
+412,Aaron Smith,Smartphone,Electronics,5,1800.96,9004.8,2023-06-01,North,Cash on Delivery
+413,Jamie Miller,Monitor,Electronics,2,1728.77,3457.54,2024-11-14,North,PayPal
+414,Debra Nguyen,Smartwatch,Wearables,4,1922.46,7689.84,2024-11-30,North,Cash on Delivery
+415,Allison Jackson,Smartphone,Electronics,4,787.88,3151.52,2024-06-20,South,Bank Transfer
+416,Miguel Clark,Laptop,Electronics,3,624.78,1874.34,2023-03-09,South,PayPal
+417,Maria Lopez,Smartwatch,Wearables,5,1118.91,5594.55,2024-03-12,West,Cash on Delivery
+418,Michael Sims,Smartphone,Electronics,5,1369.73,6848.65,2024-02-08,East,Cash on Delivery
+419,Jack Rivera,Keyboard,Accessories,1,138.35,138.35,2024-08-25,West,PayPal
+420,Timothy Peters,Laptop,Electronics,5,1339.41,6697.05,2024-11-11,South,Bank Transfer
+421,Amy Boyd,Mouse,Accessories,2,1200.06,2400.12,2024-03-07,East,Debit Card
+422,Jared Michael,Smartwatch,Wearables,5,95.49,477.45,2024-06-12,North,Credit Card
+423,Katherine Murphy,Monitor,Electronics,1,403.01,403.01,2024-06-17,South,Cash on Delivery
+424,Joan Nelson,Smartphone,Electronics,3,255.86,767.58,2023-12-11,West,Credit Card
+425,Monica Hughes,Laptop,Electronics,4,1857.24,7428.96,2024-02-25,South,Cash on Delivery
+426,Anthony Yu,Smartwatch,Wearables,3,1695.62,5086.86,2024-05-16,North,PayPal
+427,Justin Meyer,Headphones,Accessories,2,439.71,879.42,2023-06-02,East,Cash on Delivery
+428,Matthew Smith,Smartphone,Electronics,1,1996.97,1996.97,2023-07-08,West,Debit Card
+429,Brian Thompson,Keyboard,Accessories,1,1997.74,1997.74,2025-01-20,East,Bank Transfer
+430,Paul Horton,Keyboard,Accessories,4,894.67,3578.68,2023-05-30,North,Credit Card
+431,Kenneth Mcdaniel,Monitor,Electronics,1,1323.09,1323.09,2023-09-22,North,PayPal
+432,Daniel Stanton,Keyboard,Accessories,1,386.34,386.34,2023-08-29,West,Credit Card
+433,Joseph Edwards,Tablet,Electronics,2,1927,3854,2024-08-22,West,Credit Card
+434,Stephen Morrison,Headphones,Accessories,3,1601.03,4803.09,2023-12-30,West,Credit Card
+435,Brittany Smith,Laptop,Electronics,2,1334.71,2669.42,2024-09-28,West,Debit Card
+436,Joel Little,Tablet,Electronics,1,238.63,238.63,2025-02-13,East,Credit Card
+437,Dylan Deleon,Monitor,Electronics,4,1122.63,4490.52,2023-10-26,South,Cash on Delivery
+438,David Webb,Monitor,Electronics,1,1330.64,1330.64,2023-05-03,South,Bank Transfer
+439,Audrey Rodriguez,Headphones,Accessories,4,1834.84,7339.36,2024-03-02,South,PayPal
+440,Krista Benson,Headphones,Accessories,3,819.55,2458.65,2023-11-02,East,Cash on Delivery
+441,Brooke Clark,Headphones,Accessories,3,900.14,2700.42,2024-01-17,South,Bank Transfer
+442,Ashley Horne,Smartwatch,Wearables,3,1145.12,3435.36,2023-07-09,West,PayPal
+443,Crystal Rogers,Monitor,Electronics,5,461.84,2309.2,2023-05-01,South,Credit Card
+444,Robert Small,Tablet,Electronics,3,1126.13,3378.39,2024-12-03,North,Bank Transfer
+445,Tony Harris,Mouse,Accessories,3,1349.06,4047.18,2023-07-12,North,Cash on Delivery
+446,Brian Acosta,Smartwatch,Wearables,1,132.3,132.3,2025-02-28,North,Debit Card
+447,Terri Cardenas,Mouse,Accessories,4,1127.16,4508.64,2024-05-31,East,PayPal
+448,Jenna Peters,Tablet,Electronics,2,235.77,471.54,2025-02-24,East,PayPal
+449,Ronald Long,Keyboard,Accessories,5,741.5,3707.5,2023-04-25,West,Bank Transfer
+450,John Castillo,Mouse,Accessories,2,487.29,974.58,2023-12-05,East,Debit Card
+451,Robert Garcia,Smartwatch,Wearables,4,456.28,1825.12,2024-05-28,East,Bank Transfer
+452,Michael Ellis,Monitor,Electronics,4,265.81,1063.24,2024-05-07,West,Bank Transfer
+453,Carolyn Orr,Smartphone,Electronics,1,1466.4,1466.4,2024-08-17,South,PayPal
+454,Theresa Ross,Keyboard,Accessories,5,1186.86,5934.3,2025-01-18,East,Bank Transfer
+455,Michael Johnson,Tablet,Electronics,5,904.86,4524.3,2025-01-10,North,Credit Card
+456,Laura Miller,Smartphone,Electronics,4,361.13,1444.52,2024-07-03,South,Credit Card
+457,Richard Davis,Smartwatch,Wearables,5,533.71,2668.55,2024-03-19,South,Bank Transfer
+458,Melinda Robinson,Smartwatch,Wearables,2,442.98,885.96,2024-10-12,East,Debit Card
+459,William Gardner,Mouse,Accessories,5,1188.92,5944.6,2024-06-09,South,Credit Card
+460,Karla Johnson,Monitor,Electronics,5,204.49,1022.45,2024-05-31,East,Debit Card
+461,Donna Mitchell,Smartwatch,Wearables,2,884.66,1769.32,2023-06-26,South,Bank Transfer
+462,Walter Miller,Smartphone,Electronics,3,499.32,1497.96,2025-02-03,North,Debit Card
+463,Todd Delgado,Headphones,Accessories,1,1600.31,1600.31,2023-06-12,South,Cash on Delivery
+464,Willie Kelly,Headphones,Accessories,2,486.9,973.8,2024-05-15,South,Debit Card
+465,Jason Pugh,Keyboard,Accessories,5,141.47,707.35,2025-01-12,South,PayPal
+466,Nathaniel Mckenzie,Tablet,Electronics,4,550.88,2203.52,2023-05-22,West,Credit Card
+467,Clifford Griffith,Smartwatch,Wearables,1,1873.46,1873.46,2025-02-28,South,Debit Card
+468,Angela Thomas,Smartphone,Electronics,3,1801.07,5403.21,2024-02-29,West,Credit Card
+469,Tracey White,Smartphone,Electronics,2,1031.94,2063.88,2024-05-03,South,Credit Card
+470,Melissa Lewis,Smartphone,Electronics,4,183.4,733.6,2023-05-15,West,Cash on Delivery
+471,Ashley Jackson,Monitor,Electronics,5,983.38,4916.9,2024-08-02,South,Bank Transfer
+472,Kelly Myers,Smartwatch,Wearables,4,1062.76,4251.04,2023-06-19,West,PayPal
+473,Jesse Jensen,Smartphone,Electronics,1,855.31,855.31,2024-07-22,South,Cash on Delivery
+474,Jillian Mathews,Smartphone,Electronics,4,1162.93,4651.72,2025-02-02,North,Credit Card
+475,Kerry Williams,Headphones,Accessories,4,1484.85,5939.4,2024-09-02,East,Cash on Delivery
+476,Mrs. Christina Bishop,Smartwatch,Wearables,2,1764.91,3529.82,2023-03-23,South,Credit Card
+477,Ronnie Rivera,Laptop,Electronics,4,427.66,1710.64,2023-12-08,East,Bank Transfer
+478,Stephanie Sullivan,Smartwatch,Wearables,4,1578.27,6313.08,2024-05-30,North,Credit Card
+479,Kathleen Chambers,Headphones,Accessories,2,1647.55,3295.1,2023-05-12,East,Credit Card
+480,Jim Landry,Mouse,Accessories,2,748.91,1497.82,2024-07-25,South,Debit Card
+481,Michael Henderson,Headphones,Accessories,5,970.31,4851.55,2023-12-27,East,Credit Card
+482,Bridget Nguyen,Keyboard,Accessories,1,275.05,275.05,2024-11-30,West,Credit Card
+483,Maria Hall,Keyboard,Accessories,1,915.61,915.61,2024-01-25,North,Debit Card
+484,Kevin Hunt,Keyboard,Accessories,5,353.56,1767.8,2025-02-28,East,Bank Transfer
+485,Kayla Huynh,Mouse,Accessories,4,1482.41,5929.64,2024-02-01,North,Debit Card
+486,Kelly Howell,Keyboard,Accessories,4,431.43,1725.72,2024-07-19,West,PayPal
+487,Mr. Michael Bryant,Mouse,Accessories,5,1252.22,6261.1,2024-05-05,South,Credit Card
+488,Zachary Stanton,Mouse,Accessories,5,1307.36,6536.8,2024-03-25,North,Bank Transfer
+489,Diana Perkins,Mouse,Accessories,2,1541.7,3083.4,2023-12-18,East,Debit Card
+490,Cody Collins,Monitor,Electronics,5,1878.27,9391.35,2024-05-18,South,Cash on Delivery
+491,Angela Cunningham,Monitor,Electronics,4,1826.74,7306.96,2023-04-20,East,PayPal
+492,Katherine Figueroa,Smartphone,Electronics,5,1275.76,6378.8,2023-06-21,East,PayPal
+493,Jeremy Hawkins,Monitor,Electronics,3,1514.16,4542.48,2024-08-14,North,Credit Card
+494,Cody Vazquez,Keyboard,Accessories,4,1117.6,4470.4,2024-02-05,West,Debit Card
+495,Chase Fleming,Mouse,Accessories,3,103.4,310.2,2024-10-19,North,PayPal
+496,Jose Villanueva,Keyboard,Accessories,2,1984.37,3968.74,2023-11-04,North,Debit Card
+497,Stephen Wade,Laptop,Electronics,5,1602.2,8011,2023-08-11,North,Debit Card
+498,Mark Henderson,Mouse,Accessories,4,86.75,347,2024-03-02,North,Debit Card
+499,Christina Henderson,Laptop,Electronics,3,1805.46,5416.38,2024-02-29,West,Cash on Delivery
+500,Tina Smith,Keyboard,Accessories,5,868.16,4340.8,2024-05-18,North,Debit Card
