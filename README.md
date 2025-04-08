@@ -1,4 +1,4 @@
-# E-Commerece-sales-analaysis
+# E-Commerece-sales-analysis
 
 ## 📌 Project Overview
 This project analyzes e-commerce sales data using SQL for data exploration and Tableau for data visualization. The goal is to uncover insights related to customer behavior, product performance, and regional trends.
