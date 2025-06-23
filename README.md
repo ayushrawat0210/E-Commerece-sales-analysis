@@ -30,7 +30,7 @@ Order Date & Region
 Payment Method
 
 ## 🛠 Tools Used
-SQL (MySQL/PostgreSQL) – For data querying & analysis
+SQL (MySQL) – For data querying & analysis
 Tableau – For interactive data visualization
 Excel/CSV – For data storage
 GitHub – For project sharing
